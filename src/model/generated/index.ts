@@ -1,2 +1,2 @@
-export * from "./account.model"
-export * from "./historicalBalance.model"
+export * from "./owner.model"
+export * from "./transfer.model"
